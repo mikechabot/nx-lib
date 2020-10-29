@@ -29,6 +29,12 @@
     "test-app-e2e": {
       "tags": [],
       "implicitDependencies": ["test-app"]
+    },
+    "nx-publishable": {
+      "tags": []
+    },
+    "nx-buildable": {
+      "tags": []
     }
   }
 }
